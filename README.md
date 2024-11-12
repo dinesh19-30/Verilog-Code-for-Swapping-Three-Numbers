@@ -1,4 +1,4 @@
-# Verilog-Code-for-Swapping-Three-Numbers
+# VERILOG-CODE-FOR-SWAPPING-THREE-NUMBERS
 
 ## AIM:
 
